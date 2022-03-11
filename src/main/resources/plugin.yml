@@ -1,0 +1,4 @@
+name: BetterCommands
+main: rip.hippo.bettercommands.plugin.BetterCommandsPlugin
+version: 1.0.0
+author: Hippo
